@@ -2,12 +2,16 @@
 # Testes Automatizados - AGI Blog Web (Selenium + Java)
 
 
-![Build](https://github.com/SEU_USUARIO/SEU_REPO/actions/workflows/ci.yml/badge.svg)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+
 ![Java](https://img.shields.io/badge/Java-17-red)
+
 ![JUnit](https://img.shields.io/badge/JUnit-5-blue)
+
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
+
 ![Maven](https://img.shields.io/badge/Maven-Automation-orange)
+
 ![Last Commit](https://img.shields.io/github/last-commit/fernandaksprado/Teste-WEB-automatizado)
 
 
