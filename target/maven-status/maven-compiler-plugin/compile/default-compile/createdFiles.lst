@@ -1,0 +1,4 @@
+br/com/agi/pages/SearchResultsPage.class
+br/com/agi/pages/HomePage.class
+br/com/agi/core/DriverFactory.class
+br/com/agi/pages/BasePage.class
