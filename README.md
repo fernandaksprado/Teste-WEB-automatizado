@@ -1,6 +1,16 @@
 
 # Testes Automatizados - AGI Blog Web (Selenium + Java)
 
+
+![Build](https://github.com/SEU_USUARIO/SEU_REPO/actions/workflows/ci.yml/badge.svg)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+![Java](https://img.shields.io/badge/Java-17-red)
+![JUnit](https://img.shields.io/badge/JUnit-5-blue)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
+![Maven](https://img.shields.io/badge/Maven-Automation-orange)
+![Last Commit](https://img.shields.io/github/last-commit/fernandaksprado/Teste-WEB-automatizado)
+
+
 Documento elaborado por: **Fernanda Prado**  
 Execução realizada em macOS – **Novembro/2025**
 
@@ -8,7 +18,15 @@ Execução realizada em macOS – **Novembro/2025**
 
 ## 1. Objetivo
 
-O objetivo deste projeto é validar a funcionalidade de **busca do blog da Agibank**, garantindo
+Este repositório contém uma suíte de testes automatizados para validar funcionalidades principais do **Blog do Agi**, com foco na experiência de navegação e na busca de artigos.
+
+A automação foi desenvolvida utilizando:
+
+- Java 17  
+- Selenium WebDriver 4  
+- JUnit 5  
+- Maven  
+- WebDriverManager  
 
 ---
 
